@@ -1,16 +1,32 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.imgur.com/XYZ1234.png" alt="Mikasa Banner" width="100%"/>
+</p>
 
-<!--
-**Asmaa6777/Asmaa6777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Shinzou+wo+Sasageyo!;Mikasa+Ackerman+here.;Data+Scientist+and+Titan+Slayer." alt="Typing Animation" />
+  </a>
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- ⚔️ **Data Science learner and Titan Slayer**
+- 🛡️ **Protecting Humanity with Data-Driven Decisions**
+- 🎯 **Precision in Code and Combat**
+- 🎌 **Loyal to My Team and My Mission**
+
+---
+
+### My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### Visitor Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/yourusername/count.svg" alt="Visitor Counter" />
+</p>
