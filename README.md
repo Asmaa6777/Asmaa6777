@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/XYZ1234.png" alt="Mikasa Banner" width="100%"/>
+  <img src="Mikasa.gif" width="100%"/>
 </p>
 
 <h3 align="center">
@@ -22,11 +22,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/yourusername/count.svg" alt="Visitor Counter" />
 </p>
