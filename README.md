@@ -17,9 +17,3 @@
 - 🎌 **Loyal to My Team and My Mission**
 
 ---
-
-### My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asmaa6777&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmaa6777&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&bg_color=000000" alt="Top Languages" />
-</p>
