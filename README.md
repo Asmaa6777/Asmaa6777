@@ -11,9 +11,10 @@
 ---
 
 ### About Me
-- ⚔️ **Data Science learner and Titan Slayer**
-- 🛡️ **Protecting Humanity with Data-Driven Decisions**
-- 🎯 **Precision in Code and Combat**
-- 🎌 **Loyal to My Team and My Mission**
 
+CS student who spends too much time on AoT and not enough sleeping.
+Currently building projects, learning how things actually work,
+and trying to write code that future me won't be embarrassed by.
+
+Big on teamwork, hate leaving things unfinished, and yes, I will recommend Attack on Titan to you even if you just came here to check my commits.
 
